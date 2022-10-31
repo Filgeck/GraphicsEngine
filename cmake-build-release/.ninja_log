@@ -1,0 +1,20 @@
+# ninja log v5
+3	679	1657641478896904574	CMakeFiles/GraphicsEngine.dir/RenderSystem/EBO.cpp.o	eed831a9834eda90
+2281	3148	1657641481365574928	CMakeFiles/GraphicsEngine.dir/RenderSystem/RenderingSystem.cpp.o	bcd715454fde6dd
+0	1828	1657641480041675676	CMakeFiles/GraphicsEngine.dir/main.cpp.o	60c46ec2a5df5b77
+861	2281	1657641480490206942	CMakeFiles/GraphicsEngine.dir/RenderSystem/Mesh.cpp.o	7abb150afba11b38
+1	861	1657641479076444084	CMakeFiles/GraphicsEngine.dir/RenderSystem/VBO.cpp.o	bba928efab1c0353
+680	1710	1657641479926726613	CMakeFiles/GraphicsEngine.dir/RenderSystem/Texture.cpp.o	5ed39327750bedc4
+860	2096	1657641480312620774	CMakeFiles/GraphicsEngine.dir/RenderSystem/Camera.cpp.o	b113857d4b32cfe2
+1829	2413	1657641480631647242	CMakeFiles/GraphicsEngine.dir/Core/Component.cpp.o	608ab6ecdbdaa788
+2096	3068	1657641481285437617	CMakeFiles/GraphicsEngine.dir/Core/MeshComponent.cpp.o	fbd7dba1948828df
+1710	2555	1657641480773941551	CMakeFiles/GraphicsEngine.dir/Core/GameObject.cpp.o	efa62a3817f09440
+2555	3367	1657641481585890337	CMakeFiles/GraphicsEngine.dir/Core/Object.cpp.o	5d9131c288e43bf0
+3	859	1657641479074675318	CMakeFiles/GraphicsEngine.dir/RenderSystem/VAO.cpp.o	dc31e3fcbbd40f1
+4489	4533	1657641482754230829	GraphicsEngine	4559b8185427b986
+3009	3073	1657641481292191000	glad/libglad.a	fc13633cc8b067f2
+1	1237	1657641479454680704	CMakeFiles/GraphicsEngine.dir/RenderSystem/Shader.cpp.o	1a4cad672a1d1ef0
+1238	2671	1657641480887935983	CMakeFiles/GraphicsEngine.dir/RenderSystem/Model.cpp.o	e5942a46538d9275
+2671	3009	1657641481229348053	glad/CMakeFiles/glad.dir/src/glad.c.o	c64a5243d70bc887
+2414	3257	1657641481475106281	CMakeFiles/GraphicsEngine.dir/Core/Scene.cpp.o	17de99d885552bfb
+6	4488	1657641482708175632	CMakeFiles/GraphicsEngine.dir/RenderSystem/stb/stb.cpp.o	74541acc1e4f6409

@@ -1,0 +1,6 @@
+/Users/filipp/projects/c++/GraphicsEngine/cmake-build-release/CMakeFiles/GraphicsEngine.dir
+/Users/filipp/projects/c++/GraphicsEngine/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/filipp/projects/c++/GraphicsEngine/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/filipp/projects/c++/GraphicsEngine/cmake-build-release/glad/CMakeFiles/glad.dir
+/Users/filipp/projects/c++/GraphicsEngine/cmake-build-release/glad/CMakeFiles/edit_cache.dir
+/Users/filipp/projects/c++/GraphicsEngine/cmake-build-release/glad/CMakeFiles/rebuild_cache.dir
